@@ -8,7 +8,16 @@
 
 ---
 
+Before installing with `Homebrew`, execute:
+
+``` bash
+brew tap homebrew/cask-fonts
+```
+
+------
+
 - [ProFont for Powerline](https://github.com/powerline/fonts/blob/master/ProFont/ProFont%20For%20Powerline.ttf)
-- [TerminessTTF Nerd Font Mono](https://www.nerdfonts.com/font-downloads)
-- [JetBrainsMonoNL & JetBrains Mono](https://www.jetbrains.com/lp/mono/)
-- [Source Han Serif CN](https://source.typekit.com/source-han-serif/)
+- [TerminessTTF Nerd Font Mono](https://www.nerdfonts.com/font-downloads) ([AUR](https://aur.archlinux.org/packages/nerd-fonts-terminus)) (Homebrew - `brew install --cask font-terminess-ttf-nerd-font`)
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) (Followong links are directing to Nerd Font patched version) ([AUR](https://aur.archlinux.org/packages/nerd-fonts-jetbrains-mono)) (Homebrew - `brew install --cask font-jetbrains-mono-nerd-font`)
+- [Source Han Serif CN](https://source.typekit.com/source-han-serif/) ([AUR](https://archlinux.org/packages/?name=adobe-source-han-serif-cn-fonts)) (Homebrew - `brew install --cask font-source-han-serif`)
+- [Source Han Sans CN](https://source.typekit.com/source-han-serif/) ([AUR](https://archlinux.org/packages/?name=adobe-source-han-sans-cn-fonts)) (Homebrew - `brew install --cask font-source-han-sans`)
