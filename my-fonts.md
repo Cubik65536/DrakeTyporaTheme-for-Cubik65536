@@ -20,4 +20,4 @@ brew tap homebrew/cask-fonts
 - [TerminessTTF Nerd Font Mono](https://www.nerdfonts.com/font-downloads) ([AUR](https://aur.archlinux.org/packages/nerd-fonts-terminus)) (Homebrew - `brew install --cask font-terminess-ttf-nerd-font`)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) (Followong links are directing to Nerd Font patched version) ([AUR](https://aur.archlinux.org/packages/nerd-fonts-jetbrains-mono)) (Homebrew - `brew install --cask font-jetbrains-mono-nerd-font`)
 - [LXGW WenKai / 霞鹜文楷](https://github.com/lxgw/LxgwWenKai) (Homebrew - `brew install font-lxgw-wenkai`)
-- [Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조](https://github.com/adobe-fonts/source-han-serif) (Super OTC Required)
+- [Noto Sans/Serif CJK (Mono)](https://github.com/googlefonts/noto-cjk) (Homebrew - `brew install font-noto-sans-cjk font-noto-serif-cjk`)
